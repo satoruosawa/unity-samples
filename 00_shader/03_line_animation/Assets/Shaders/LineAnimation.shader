@@ -56,7 +56,6 @@ Shader "Unlit/LineAnimation" {
             }
 
             fixed4 frag (v2f i) : SV_Target {
-                // uv.y += _Time.y*_Speed;
                 float phase = (_Time.y *_Speed) % 1;
                 float start = phase;
                 float end = phase + _Length;
