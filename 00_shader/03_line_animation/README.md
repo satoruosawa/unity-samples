@@ -1,0 +1,2 @@
+- LineRendererのCorner Verticesを1以上にする。
+- Texture ModeをTileにする。
