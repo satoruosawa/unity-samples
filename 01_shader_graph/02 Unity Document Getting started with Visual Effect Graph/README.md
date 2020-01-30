@@ -7,4 +7,7 @@
   - High Definition Render Pipeline(Version 7.1.8) (2018.3 or newer. Verified packages start at Unity 2019.3.)
   - Visual Effect Graph(Version 7.1.8) (When you download the High Definition Render Pipeline package from Package Manager, Unity automatically installs the Visual Effect Graph package.)
   - Visual Effect Graphのversionとpipeline packageのVersionは揃えないといけない
-  
+
+# Creating Visual Effect Graphs
+- In Unity, click Assets > Create > Visual Effects > Visual Effect Graph.
+
