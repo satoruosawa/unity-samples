@@ -11,3 +11,6 @@
 # Creating Visual Effect Graphs
 - In Unity, click Assets > Create > Visual Effects > Visual Effect Graph.
 
+# Using Visual Effect Graphs in Scenes
+- Drag and drop a Visual Effect Graph Asset from the Project Window into the Hierarchy Window.
+
