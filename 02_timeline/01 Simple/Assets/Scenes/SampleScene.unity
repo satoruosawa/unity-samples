@@ -348,6 +348,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c7223997789f4bbd8e066ce339f823f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  position: {x: 0, y: 0, z: 0}
 --- !u!65 &1004216705
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -664,6 +665,8 @@ PlayableDirector:
     value: {fileID: 1525426669}
   - key: {fileID: 3252173976511055277, guid: f681b4ce6c6ce4b0d900cc975f1a506d, type: 2}
     value: {fileID: 1617330377}
+  - key: {fileID: 3303440810006946812, guid: f681b4ce6c6ce4b0d900cc975f1a506d, type: 2}
+    value: {fileID: 1004216703}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &2059759170
