@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class CubeBehavior : MonoBehaviour {
 	[SerializeField] Vector3 position = Vector3.zero;
 
 	void Start () {
