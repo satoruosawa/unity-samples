@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 
 [Serializable]
-public class CustomBehaviour : PlayableBehaviour {
+public class SingleReferenceBehaviour : PlayableBehaviour {
 	public override void ProcessFrame (
 		Playable playable, FrameData info, object playerData) {
 		if (playerData == null) return;

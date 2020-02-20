@@ -2,6 +2,6 @@
 using UnityEngine.Timeline;
 
 [TrackColor (0.875f, 0.5944853f, 0.1737132f)]
-[TrackClipType (typeof (CustomClip))]
+[TrackClipType (typeof (SingleReferenceClip))]
 [TrackBindingType (typeof (GameObject))]
-public class CustomTrack : TrackAsset { }
+public class SingleReferenceTrack : TrackAsset { }
